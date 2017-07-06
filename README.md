@@ -1,1 +1,3 @@
-# understand
+# Understand
+
+Ted Chiang

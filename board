@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tuxcards_data_file>
+<InformationCollection>
+ <LastActiveElement>Ecrire//Backlog//Session tool</LastActiveElement>
+ <InformationElement isOpen="true" informationFormat="RTF" expiryDate="jeu. juil. 6 2017" iconFileName="none" isEncrypted="false" expires="false">
+  <Description>Ecrire</Description>
+  <Information><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></Information>
+  <InformationElement isOpen="true" informationFormat="RTF" expiryDate="jeu. juil. 6 2017" iconFileName="none" isEncrypted="false" expires="false">
+   <Description>Backlog</Description>
+   <Information><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></Information>
+   <InformationElement isOpen="true" informationFormat="RTF" expiryDate="jeu. juil. 6 2017" iconFileName="none" isEncrypted="false" expires="false">
+    <Description>Impact mapping</Description>
+    <Information><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></Information>
+   </InformationElement>
+   <InformationElement isOpen="true" informationFormat="RTF" expiryDate="jeu. juil. 6 2017" iconFileName="none" isEncrypted="false" expires="false">
+    <Description>Story mapping</Description>
+    <Information><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></Information>
+   </InformationElement>
+   <InformationElement isOpen="true" informationFormat="RTF" expiryDate="jeu. juil. 6 2017" iconFileName="none" isEncrypted="false" expires="false">
+    <Description>Session tool</Description>
+    <Information><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Lucida Grande'; font-size:13pt;">Faire un outil permettant de gérer les sessions à l'intérieur de l'espace de travail</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Lucida Grande'; font-size:13pt;">Il utiliserait un fichier caché dans le dossier de travail, fichier en trois parties:</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Lucida Grande'; font-size:13pt;">* script à exécuter à l'ouverture de session (mise à jour à l'aide de git pull, lancement d'applications...)</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Lucida Grande'; font-size:13pt;">* script à exécuter lors d'enregistrement de modification pendant une session (synchronisation avec un dossier distant, système de tickets local...)</span></p>
+<p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><span style=" font-family:'Lucida Grande'; font-size:13pt;">* script à exécuter à la fin de la session (sauvegarde et git commit/push)</span></p></body></html>]]></Information>
+   </InformationElement>
+  </InformationElement>
+  <InformationElement isOpen="true" informationFormat="RTF" expiryDate="jeu. juil. 6 2017" iconFileName="none" isEncrypted="false" expires="false">
+   <Description>Current Sprint</Description>
+   <Information><![CDATA[<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html><head><meta name="qrichtext" content="1" /><style type="text/css">
+p, li { white-space: pre-wrap; }
+</style></head><body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+<p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;"><br /></p></body></html>]]></Information>
+  </InformationElement>
+ </InformationElement>
+</InformationCollection>
